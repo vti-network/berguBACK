@@ -6,7 +6,7 @@
     "secretKey": "aeff6ecc91aff1eb98fa408323f8b8b6c8182bf63de7d7c23ce179564ed77334",
     "balance": [
       {
-        "IDR": "98500",
+        "IDR": "88000",
         "BERGU": "100000"
       }
     ],
@@ -26,48 +26,20 @@
           "value": "1000",
           "pengirim": "x06267204807a3297ea45bf2aa653d4bb287d0ce5ed6dfc3084400ff621ac94f1c85",
           "penerima": "111"
+        },
+        {
+          "date_time": "2024-01-23 15:31:09",
+          "opt": "kirim",
+          "currency": "IDR",
+          "value": "10000",
+          "pengirim": "x06267204807a3297ea45bf2aa653d4bb287d0ce5ed6dfc3084400ff621ac94f1c85",
+          "penerima": "x06206f7c03a11aa5b7a8e3bbc7bc0dfa594ccf9153c68743974a4736382c46ffb3c"
         }
       ]
     },
     "txhash": [],
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImxvYmFkdWl0MTk5MUBnbWFpbC5jb20iLCJsb2dpblRpbWUiOiIyMDI0LTAxLTIzIDEyOjM3OjIxIiwiaWF0IjoxNzA1OTg4MjQxLCJleHAiOjE3MDYwNzQ2NDF9.uspcVYqCqpozZoK-M0VmwKJuwrw1kkA7wjC1oUjE8bE",
-    "otp": "836990"
-  },
-  {
-    "email": "lobaduit1991@gmail.com",
-    "pin": "11111",
-    "alamat": "111",
-    "secretKey": "aeff6ecc91aff1eb98fa408323f8b8b6c8182bf63de7d7c23ce179564ed77334",
-    "balance": [
-      {
-        "IDR": "1000",
-        "BERGU": "0"
-      }
-    ],
-    "profile": [
-      {
-        "name": "",
-        "handphone": ""
-      }
-    ],
-    "history": {
-      "created": "2024-01-23 11:50:40",
-      "transactions": [
-        {
-          "date_time": "2024-01-23 13:42:04",
-          "opt": "terima",
-          "currency": "IDR",
-          "value": "1000",
-          "penerima": "111",
-          "pengirim": "x06267204807a3297ea45bf2aa653d4bb287d0ce5ed6dfc3084400ff621ac94f1c85"
-        }
-      ]
-    },
-    "txhash": [
-      "875352165639a348146297dc9a1bf7e6e7bee948d9cfb6dbfb4c552c3d1b1487"
-    ],
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImxvYmFkdWl0MTk5MUBnbWFpbC5jb20iLCJsb2dpblRpbWUiOiIyMDI0LTAxLTIzIDEyOjM3OjIxIiwiaWF0IjoxNzA1OTg4MjQxLCJleHAiOjE3MDYwNzQ2NDF9.uspcVYqCqpozZoK-M0VmwKJuwrw1kkA7wjC1oUjE8bE",
-    "otp": "836990"
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImxvYmFkdWl0MTk5MUBnbWFpbC5jb20iLCJsb2dpblRpbWUiOiIyMDI0LTAxLTI0IDEwOjI3OjQ5IiwiaWF0IjoxNzA2MDY2ODY5LCJleHAiOjE3MDYxNTMyNjl9.BcmuyGXyobInsslMdttpmRQ477EAv2TwCAqNskIjoAA",
+    "otp": "580782"
   },
   {
     "email": "azpwkk@gmail.com",
@@ -76,7 +48,7 @@
     "secretKey": "83c0d0166bcadd0b7678621f8bfd2b8c43a2db0b01c42e7933aa39aae39c61c6",
     "balance": [
       {
-        "IDR": "0",
+        "IDR": "10000",
         "BERGU": "0"
       }
     ],
@@ -88,9 +60,20 @@
     ],
     "history": {
       "created": "2024-01-23 14:20:05",
-      "transactions": []
+      "transactions": [
+        {
+          "date_time": "2024-01-23 15:31:09",
+          "opt": "terima",
+          "currency": "IDR",
+          "value": "10000",
+          "penerima": "x06206f7c03a11aa5b7a8e3bbc7bc0dfa594ccf9153c68743974a4736382c46ffb3c",
+          "pengirim": "x06267204807a3297ea45bf2aa653d4bb287d0ce5ed6dfc3084400ff621ac94f1c85"
+        }
+      ]
     },
-    "txhash": [],
+    "txhash": [
+      "af85937548209c061b51f1a64b14dfdad3b4e9e3b27f41b3d223a1c9d2a2367c"
+    ],
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImF6cHdra0BnbWFpbC5jb20iLCJsb2dpblRpbWUiOiIyMDI0LTAxLTIzIDE0OjIzOjIwIiwiaWF0IjoxNzA1OTk0NjAwLCJleHAiOjE3MDYwODEwMDB9.Jujo1jhrq5vQUt4hH7sWoPpQt32-xmpIYYcvwBE2-rs",
     "otp": "846725"
   }
